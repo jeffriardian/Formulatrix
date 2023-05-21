@@ -1,16 +1,20 @@
-Purpose
+# Purpose 
 A Repository manager is a library that can be used to store and retrieve JSON string or XML string. A unique string is used to indicate the item being stored.
 
-How to Run Test with FormulatrixUnitTest ( dotnet CLI )
+# How to Run Test with FormulatrixUnitTest ( dotnet CLI )
 Open your terminal on your Mac or Command Prompt Windows;
 
-git clone https://github.com/jeffriardian/Formulatrix.git
+> git clone https://github.com/jeffriardian/Formulatrix.git
 
-dotnet build Formulatrix.sln
+> dotnet build Formulatrix.sln
 
-cd FormulatrixUnitTest
+> cd FormulatrixUnitTest
 
-dotnet test
+> dotnet test
+
+# List Of xUnitTest
+
+[Theory]
 
 [InlineData("item1","{"to":"jeffriardian.kuningan@gmail.com","title":"Test Formulatrix","body":"Technical Test Formulatrix"}",1)]
 
