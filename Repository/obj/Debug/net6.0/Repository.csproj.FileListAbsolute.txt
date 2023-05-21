@@ -1,0 +1,15 @@
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\bin\Debug\net6.0\Repository.dll
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\bin\Debug\net6.0\Repository.pdb
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\bin\Debug\net6.0\Services.dll
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\bin\Debug\net6.0\Services.pdb
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\obj\Debug\net6.0\Repository.dll
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\obj\Debug\net6.0\Repository.pdb
+D:\Recruitment History\Company\PT Formulatrix\Formulatrix\Repository\obj\Debug\net6.0\ref\Repository.dll
